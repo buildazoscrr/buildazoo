@@ -12,6 +12,9 @@ Welcome to the official GitHub repository for the Build a Zoo Script, a powerful
 
 In the world of online gaming, tools like the build a zoo script have become essential for players who want to maximize their fun without the grind. This script is specifically tailored for the Build a Zoo game, where you construct and manage your own virtual zoo filled with animals, attractions, and visitors. 🦁🐘 With over 15,000 downloads and a stellar 4.8/5 rating from users, it's clear why this has become a go-to resource. The script automates repetitive tasks, allowing you to focus on the creative aspects of building your dream zoo. From resource gathering to animal management, it handles the heavy lifting so you can enjoy the game at your pace.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6fd189d4-348e-4bc1-92df-820653478436" />
+
+
 What makes this the best build a zoo script? It's not just about automation; it's about smart, user-friendly design. Developed by a community of passionate gamers, it incorporates feedback to ensure reliability and ease of use. 🎮 Unlike basic scripts found on pastebin sites, this one offers advanced features without compromising on safety or performance. We've seen users report doubling their in-game progress in just days, thanks to its efficient algorithms.
 
 ## Features of Build a Zoo Script 🔧
